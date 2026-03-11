@@ -1,0 +1,5 @@
+timestamp,user,action,status
+08:01,alice,login,success
+08:02,bob,login,failed
+08:03,alice,dowload,success
+08:04,bob,login,failed
